@@ -1,0 +1,7 @@
+C:\Users\Benny-PC\source\repos\TorrentToMagnet\TorrentToMagnet\bin\Debug\TorrentToMagnet.exe.config
+C:\Users\Benny-PC\source\repos\TorrentToMagnet\TorrentToMagnet\bin\Debug\TorrentToMagnet.exe
+C:\Users\Benny-PC\source\repos\TorrentToMagnet\TorrentToMagnet\bin\Debug\TorrentToMagnet.pdb
+C:\Users\Benny-PC\source\repos\TorrentToMagnet\TorrentToMagnet\obj\Debug\TorrentToMagnet.csprojAssemblyReference.cache
+C:\Users\Benny-PC\source\repos\TorrentToMagnet\TorrentToMagnet\obj\Debug\TorrentToMagnet.csproj.CoreCompileInputs.cache
+C:\Users\Benny-PC\source\repos\TorrentToMagnet\TorrentToMagnet\obj\Debug\TorrentToMagnet.exe
+C:\Users\Benny-PC\source\repos\TorrentToMagnet\TorrentToMagnet\obj\Debug\TorrentToMagnet.pdb
